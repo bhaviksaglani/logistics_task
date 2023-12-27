@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439625598621",
+    "project_id": "logistics-task",
+    "storage_bucket": "logistics-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439625598621:android:d300db7538bdebc8453674",
+        "android_client_info": {
+          "package_name": "com.example.logistics_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7PQx7c6yaYMnJ1Db_J_Hk2yPBVdpRwCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
